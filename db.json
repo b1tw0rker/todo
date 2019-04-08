@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "label": "www.bit-worker.com erstellen",
+      "status": true,
+      "position": 1,
+      "id": 1
+    },
+    {
+      "label": "RXJS verstehen",
+      "status": false,
+      "position": 3,
+      "id": 7
+    },
+    {
+      "label": "Todo App mit NativeScript als native App umbauen.",
+      "status": false,
+      "position": 2,
+      "id": 9
+    }
+  ]
+}
